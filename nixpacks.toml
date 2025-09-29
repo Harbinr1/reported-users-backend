@@ -2,7 +2,7 @@
 nixPkgs = ['dotnet-sdk_8']
 
 [phases.build]
-cmds = ['dotnet restore', 'dotnet publish -c Release -o out']
+cmds = ['dotnet publish -c Release -o out --self-contained false --runtime linux-x64']
 
 [start]
 cmd = 'dotnet out/RentACarReport.dll'
