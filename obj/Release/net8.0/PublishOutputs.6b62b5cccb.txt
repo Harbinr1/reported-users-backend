@@ -1,4 +1,5 @@
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\RentACarReport.exe
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\out\web.config
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\web.config
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\web.config
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\web.config
@@ -28,6 +29,10 @@ C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\appsettings.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\appsettings.Development.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\appsettings.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\out\appsettings.Development.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\out\appsettings.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\out\RentACarReport.deps.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\out\RentACarReport.runtimeconfig.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\RentACarReport.deps.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\out\RentACarReport.runtimeconfig.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\out\out\out\out\out\out\out\out\out\RentACarReport.deps.json

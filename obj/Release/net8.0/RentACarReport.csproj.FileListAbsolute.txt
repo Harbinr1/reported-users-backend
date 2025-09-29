@@ -98,3 +98,8 @@ C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Rel
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\appsettings.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\RentACarReport.deps.json
 C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\RentACarReport.runtimeconfig.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\out\web.config
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\out\appsettings.Development.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\out\appsettings.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\out\RentACarReport.deps.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Release\net8.0\out\out\out\out\out\out\out\out\out\out\RentACarReport.runtimeconfig.json

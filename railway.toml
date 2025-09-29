@@ -1,8 +1,0 @@
-[build]
-dotnet_version = "8.0.300"   # match your local stable SDK
-builder = "NIXPACKS"
-
-[deploy]
-startCommand = "dotnet out/RentACarReport.dll"
-restartPolicyType = "ON_FAILURE"
-restartPolicyMaxRetries = 10
