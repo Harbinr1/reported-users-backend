@@ -1,8 +1,7 @@
-[phases.setup]
-nixPkgs = ['dotnet-sdk_8']
+[build]
+builder = "NIXPACKS"
 
-[phases.build]
-cmds = ['dotnet publish -c Release -o out --self-contained false --runtime linux-x64']
-
-[start]
-cmd = 'dotnet out/RentACarReport.dll'
+[deploy]
+startCommand = "./out/RentACarReport"
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10

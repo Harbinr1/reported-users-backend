@@ -1,4 +1,5 @@
 [build]
+dotnet_version = "8.0.300"   # match your local stable SDK
 builder = "NIXPACKS"
 
 [deploy]
