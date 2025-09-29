@@ -1,0 +1,122 @@
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.csproj.AssemblyReference.cache
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.AssemblyInfoInputs.cache
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.AssemblyInfo.cs
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.csproj.CoreCompileInputs.cache
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\appsettings.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.staticwebassets.endpoints.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.exe
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.deps.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.runtimeconfig.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.pdb
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\DnsClient.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Snappier.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\scopedcss\bundle\RentACarReport.styles.css
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.RentACarReport.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.RentACarReport.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.build.RentACarReport.props
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentACarReport.props
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentACarReport.props
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACar.93529841.Up2Date
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\refint\RentACarReport.dll
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.pdb
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.genruntimeconfig.cache
+C:\Users\erion\source\repos\RentACarReport\RentACarReport\obj\Debug\net8.0\ref\RentACarReport.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\appsettings.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.exe
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.deps.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.runtimeconfig.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\RentACarReport.pdb
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Snappier.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.csproj.AssemblyReference.cache
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.AssemblyInfoInputs.cache
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.AssemblyInfo.cs
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.csproj.CoreCompileInputs.cache
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.RentACarReport.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.build.RentACarReport.props
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentACarReport.props
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentACarReport.props
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\scopedcss\bundle\RentACarReport.styles.css
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACar.93529841.Up2Date
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\refint\RentACarReport.dll
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.pdb
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\RentACarReport.genruntimeconfig.cache
+C:\Users\Plus Computers\Downloads\agonRent\RentACarReport\RentACarReport\obj\Debug\net8.0\ref\RentACarReport.dll
