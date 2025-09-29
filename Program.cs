@@ -23,9 +23,10 @@ builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<ReportedUserService>();
 
 // JWT configuration
-var jwtKey = builder.Configuration["JWT_KEY"] ?? throw new InvalidOperationException("JWT_KEY not set");
-var jwtIssuer = builder.Configuration["JWT_ISSUER"] ?? "ReportedUsersSystem";
-var jwtAudience = builder.Configuration["JWT_AUDIENCE"] ?? "ReportedUsersSystemUsers";
+
+var jwtKey = builder.Configuration["Jwt:Key"] ?? throw new InvalidOperationException("JWT Key not set");
+var jwtIssuer = builder.Configuration["Jwt:Issuer"] ?? "ReportedUsersSystem";
+var jwtAudience = builder.Configuration["Jwt:Audience"] ?? "ReportedUsersSystemUsers";
 
 builder.Services.AddAuthentication(options =>
 {
@@ -92,14 +93,20 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Middleware
-if (app.Environment.IsDevelopment())
+// Enable Swagger in all environments
+app.UseSwagger();
+app.UseSwaggerUI(c => 
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Reported Users System v1"));
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Reported Users System v1");
+    c.RoutePrefix = string.Empty; // Makes Swagger the default page
+});
 
 app.UseCors("AllowAnyOrigin");
-app.UseHttpsRedirection();
+// Only use HTTPS redirection in development
+if (app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
