@@ -5,24 +5,33 @@ using ReportedUsersSystem.Models;
 
 namespace ReportedUsersSystem.Data;
 
-// Settings class
-public class MongoDbSettings
-{
-    public string ConnectionString { get; set; } = string.Empty;
-    public string DatabaseName { get; set; } = string.Empty;
-}
-
-// Database context
 public class MongoDbContext
 {
     private readonly IMongoDatabase _database;
 
     public MongoDbContext(IOptions<MongoDbSettings> settings)
     {
-        var client = new MongoClient(settings.Value.ConnectionString);
+        var mongoClientSettings = MongoClientSettings.FromConnectionString(settings.Value.ConnectionString);
+        
+        // Configure SSL/TLS settings
+        mongoClientSettings.SslSettings = new SslSettings
+        {
+            EnabledSslProtocols = System.Security.Authentication.SslProtocols.Tls12
+        };
+        
+        // Disable server certificate validation (for Railway/Docker environments)
+        mongoClientSettings.ServerApi = new ServerApi(ServerApiVersion.V1);
+        
+        var client = new MongoClient(mongoClientSettings);
         _database = client.GetDatabase(settings.Value.DatabaseName);
     }
 
     public IMongoCollection<User> Users => _database.GetCollection<User>("Users");
     public IMongoCollection<ReportedUser> ReportedUsers => _database.GetCollection<ReportedUser>("ReportedUsers");
+}
+
+public class MongoDbSettings
+{
+    public string ConnectionString { get; set; }
+    public string DatabaseName { get; set; }
 }
