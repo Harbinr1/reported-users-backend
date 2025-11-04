@@ -6,6 +6,10 @@ using ReportedUsersSystem.Services;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+Console.WriteLine("MongoDB Connection String: " + builder.Configuration["MongoDb:ConnectionString"]);
+
+// Load environment variables
+builder.Configuration.AddEnvironmentVariables();
 
 // Load environment variables (Railway injects them)
 builder.Configuration.AddEnvironmentVariables();
@@ -21,9 +25,9 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<ReportedUserService>();
+builder.Services.AddScoped<UserContextAccessor>();
 
 // JWT configuration
-
 var jwtKey = builder.Configuration["Jwt:Key"] ?? throw new InvalidOperationException("JWT Key not set");
 var jwtIssuer = builder.Configuration["Jwt:Issuer"] ?? "ReportedUsersSystem";
 var jwtAudience = builder.Configuration["Jwt:Audience"] ?? "ReportedUsersSystemUsers";
@@ -78,22 +82,35 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // CORS
+
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAnyOrigin", policy =>
+    options.AddPolicy("AllowFrontend", policy =>
     {
         policy
+            .WithOrigins(
+                "https://reported-users-frontend.vercel.app", // Your Vercel frontend
+                "http://localhost:3000",                       // Local development
+                "http://localhost:8080"
+            )
+
             .AllowAnyHeader()
             .AllowAnyMethod()
-            .AllowCredentials()
-            .SetIsOriginAllowed(_ => true); // Allow all origins for production
+            .AllowCredentials();
     });
 });
 
+
 var app = builder.Build();
 
-// Middleware
-// Enable Swagger in all environments
+
+// ⭐⭐⭐ MIDDLEWARE ORDER IS CRITICAL ⭐⭐⭐
+
+// CORS must come early in the pipeline
+app.UseCors("AllowFrontend");
+
+// Swagger
 app.UseSwagger();
 app.UseSwaggerUI(c => 
 {
@@ -101,14 +118,17 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = string.Empty; // Makes Swagger the default page
 });
 
-app.UseCors("AllowAnyOrigin");
 // Only use HTTPS redirection in development
 if (app.Environment.IsDevelopment())
 {
     app.UseHttpsRedirection();
 }
+
+// Authentication & Authorization
 app.UseAuthentication();
 app.UseAuthorization();
+
+// Controllers
 app.MapControllers();
 
 app.Run();

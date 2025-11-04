@@ -14,6 +14,7 @@ public class MongoDbContext
         var mongoClientSettings = MongoClientSettings.FromConnectionString(settings.Value.ConnectionString);
         
         // Configure SSL/TLS settings
+        
         mongoClientSettings.SslSettings = new SslSettings
         {
             EnabledSslProtocols = System.Security.Authentication.SslProtocols.Tls12
